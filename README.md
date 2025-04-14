@@ -6,6 +6,7 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
 
 <table>
   <tr>
+    <th>Lenguajes</th>
     <td>Lenguajes
     </td>
     <td></td>
