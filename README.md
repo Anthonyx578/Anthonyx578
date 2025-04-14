@@ -1,4 +1,10 @@
-## Hi there 👋
+# ✨ Anthonyx57 Full-Stack Developer ✨
+
+## Sobre mi
+
+Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la informacion 💻 Me decanto mucho por el desarrollo back end y la logica de los programas, los microservicios, autenticaciones y API's.
+
+
 
 <!--
 **Anthonyx578/Anthonyx578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
