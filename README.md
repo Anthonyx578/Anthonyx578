@@ -4,6 +4,14 @@
 
 Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la informacion 💻 Me decanto mucho por el desarrollo back end y la logica de los programas, los microservicios, autenticaciones y API's💻 .
 
+<table>
+  <tr>
+    <td>Lenguajes
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 ## Lenguajes 
 - TypeScript: 🔥
 - Html: 🔥 
