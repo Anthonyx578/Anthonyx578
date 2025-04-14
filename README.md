@@ -8,7 +8,10 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
   <tr>
     <td>Lenguajes
     </td>
-    <td> - TypeScript</td>
+    <td> Frameworks</td>
+  </tr>
+  <tr>
+    <td>Html</td>
   </tr>
 </table>
 
