@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la informacion 💻 Me decanto mucho por el desarrollo back end y la logica de los programas, los microservicios, autenticaciones y API's.
+Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la informacion 💻 Me decanto mucho por el desarrollo back end y la logica de los programas, los microservicios, autenticaciones y API's💻 .
 
 
 
