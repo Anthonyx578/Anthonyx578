@@ -26,26 +26,17 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
   </tr>
 </table>
 
-## Lenguajes 
-- TypeScript: 🔥
-- Html: 🔥 
-- Css: 🔥 
-- JavaScript: 🔥  
-- Php: 🌱
-- C++: 🌱      
-- SQL: 🔥
-## Frameworks
-- NestJS
-- Express
-- Laravel
-- React
-## Conocimientos
-- Git/GitHub
-- Docker
-- Nats
-- Postgresql
-- MySql
-  
+
+** Titulos/Certificados
+<table>
+  <tr>
+    <td> <p>Titulo de Ingenieria</p> </td>
+    <td>
+      <p>Ingles B1</p>
+    </td>
+    <td>Ciber Seguridad</td>
+  </tr>
+</table>
 
 
 <!--
