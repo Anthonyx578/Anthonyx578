@@ -3,9 +3,10 @@
 ## Sobre mi
 
 Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la informacion 💻 Me decanto mucho por el desarrollo back end y la logica de los programas, los microservicios, autenticaciones y API's💻 .
+##
 
-<table align="center" height="100">
-  <tr style="width:100%;">
+<table align="center">
+  <tr>
     <td>
       <p align="center">Lenguajes</p>
     </td>
