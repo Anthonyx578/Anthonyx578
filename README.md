@@ -6,14 +6,21 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
 
 <table align="center" height="100">
   <tr style="width:100%;">
-    <td>Lenguajes
+    <td>
+      <p align="center">Lenguajes</p>
     </td>
-    <td> Frameworks</td>
+    <td> <p align="center">Frameworks</p> </td>
+    <td> <p align="center">Tecnologias</p> </td>
   </tr>
   <tr>
     <td><div>
-        <p><strong style="font-size: 18px;">Frontend</strong></p>
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,astro&perline=4" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,php&perline=4" />
+      </div></td>
+    <td><div>
+        <img src="https://skillicons.dev/icons?i=nest,react,laravel,express,angular&perline=4" />
+      </div></td>
+    <td><div>
+        <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,github,linux,nodejs&perline=4" />
       </div></td>
   </tr>
 </table>
