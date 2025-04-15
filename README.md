@@ -4,14 +4,17 @@
 
 Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la informacion 💻 Me decanto mucho por el desarrollo back end y la logica de los programas, los microservicios, autenticaciones y API's💻 .
 
-<table>
-  <tr>
+<table align="center" height="100">
+  <tr style="width:100%;">
     <td>Lenguajes
     </td>
     <td> Frameworks</td>
   </tr>
   <tr>
-    <td>Html</td>
+    <td><div>
+        <p><strong style="font-size: 18px;">Frontend</strong></p>
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,astro&perline=4" />
+      </div></td>
   </tr>
 </table>
 
