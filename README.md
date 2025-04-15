@@ -1,8 +1,11 @@
+![Fondo banner](https://github.com/user-attachments/assets/2244246c-fa88-4926-bfec-6775e88e88e1)
+
+
 # ✨ Anthonyx57 Full-Stack Developer ✨
 
 ## Sobre mi
 
-Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la informacion 💻 Me decanto mucho por el desarrollo back end y la logica de los programas, los microservicios, autenticaciones y API's💻 .
+Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la informacion 💻 Me decanto mucho por el desarrollo back end y la logica de los programas, los microservicios, autenticaciones y API's💻 . Interesado en los desarrollos y proyectos😊
 ## Habilidades
 
 <table align="center">
@@ -27,29 +30,25 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
 </table>
 
 
-** Titulos/Certificados
-<table>
+## Titulos/Certificados
+<table align="center">
   <tr>
-    <td> <p>Titulo de Ingenieria</p> </td>
+    <td> 
+      <p>Titulo de Ingenieria</p> 
+      <div>
+        <img src="">
+      </div>
+    </td>
     <td>
       <p>Ingles B1</p>
+      <div></div>
     </td>
-    <td>Ciber Seguridad</td>
+    <td>
+      <p>Ciber Seguridad</p>
+      <div></div>
+    </td>
   </tr>
 </table>
 
+## Redes
 
-<!--
-**Anthonyx578/Anthonyx578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
