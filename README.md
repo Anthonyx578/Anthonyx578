@@ -56,8 +56,10 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
       </div>
     </td>
     <td>
-      <p>Ingles B1</p>
-      <div></div>
+      <p align="center">Ingles B1</p>
+      <div>
+        <img src="ingles.jpg" width="220">
+      </div>
     </td>
     <td>
       <p align="center">Ciber Seguridad</p>
