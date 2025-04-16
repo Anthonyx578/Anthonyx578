@@ -36,7 +36,7 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
     <td> 
       <p align="center">Linux Essentials</p> 
       <div>
-        <img src="Titulo.jpg" width="200">
+        <img src="Linux.jpg" width="220">
       </div>
     </td>
     <td>
@@ -44,7 +44,7 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
       <div></div>
     </td>
     <td>
-      <p>Ciber Seguridad</p>
+      <p align="center">Ciber Seguridad</p>
       <img src="CiberSeguridad.jpg" width="220">
       <div></div>
     </td>
