@@ -34,7 +34,7 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
 <table align="center">
   <tr>
     <td> 
-      <p>Titulo de Ingenieria</p> 
+      <p>Titulo Universitario</p> 
       <div>
         <img src="">
       </div>
