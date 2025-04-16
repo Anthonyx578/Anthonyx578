@@ -6,6 +6,22 @@
 ## Sobre mi
 
 Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la informacion 💻 Me decanto mucho por el desarrollo back end y la logica de los programas, los microservicios, autenticaciones y API's💻 . Interesado en los desarrollos y proyectos😊
+
+## Areas de Interes
+
+<table align="center">
+  <tr>
+    <td>Desarrollo BackEnd</td>
+    <td>API's</td>
+    <td>Containers</td>
+  </tr>
+  <tr>
+    <td>Microservicios</td>
+    <td>Modelado de DB</td>
+    <td>Desarrollo FullStack</td>
+  </tr>
+</table>
+
 ## Habilidades
 
 <table align="center">
@@ -52,4 +68,14 @@ Soy un desarrollador Full-Stack graduado como Ingeniero en Tecnologias de la inf
 </table>
 
 ## Redes
+<div>
+  <p align="center">
+    <img src="https://images.icon-icons.com/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" width="18">
+    <span style="vertical-align:middle;"> www.linkedin.com/in/anthonyx57</span>
+  </p>
+  <p align="center">
+    <img src="https://images.icon-icons.com/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" width="18">
+    <span style="vertical-align:middle;"> antrogartme2002@gmail.com</span>
+  </p>
+</div>
 
